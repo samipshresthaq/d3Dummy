@@ -1,0 +1,86 @@
+[
+  {
+    "_id": "5fa279cf94b63545fff33b9f",
+    "source": {
+      "_id": "5fa279cf57787d20c83094a6",
+      "title": "CHORIZON",
+      "type": "brown"
+    },
+    "target": {
+      "_id": "5fa279cf04c3f8260c8b621b",
+      "title": "QIAO",
+      "type": "green"
+    },
+    "type": "blue"
+  },
+  {
+    "_id": "5fa279cf7fb616be8879aa93",
+    "source": {
+      "_id": "5fa279cf870d0a3cf0a6a3f4",
+      "title": "DIGIRANG",
+      "type": "brown"
+    },
+    "target": {
+      "_id": "5fa279cfa6be0edef1fa734b",
+      "title": "CIPROMOX",
+      "type": "brown"
+    },
+    "type": "green"
+  },
+  {
+    "_id": "5fa279cfecd8def63a7a0d3b",
+    "source": {
+      "_id": "5fa279cfab3f316961246dc0",
+      "title": "APEXIA",
+      "type": "brown"
+    },
+    "target": {
+      "_id": "5fa279cf9edf17dad863d509",
+      "title": "KEEG",
+      "type": "green"
+    },
+    "type": "green"
+  },
+  {
+    "_id": "5fa279cf4dcb12e076b4210a",
+    "source": {
+      "_id": "5fa279cf01c97df8b867e2bd",
+      "title": "BULLJUICE",
+      "type": "green"
+    },
+    "target": {
+      "_id": "5fa279cf4b99a60ec92156de",
+      "title": "CAPSCREEN",
+      "type": "brown"
+    },
+    "type": "brown"
+  },
+  {
+    "_id": "5fa279cfa8ad2f8ccc4b2ac1",
+    "source": {
+      "_id": "5fa279cf9ab1adde58f818c9",
+      "title": "MATRIXITY",
+      "type": "green"
+    },
+    "target": {
+      "_id": "5fa279cf047a18d212953f49",
+      "title": "ZANYMAX",
+      "type": "blue"
+    },
+    "type": "blue"
+  },
+  {
+    "_id": "5fa279cf8343cb29eaa061bb",
+    "source": {
+      "_id": "5fa279cf77791b3fb808ed6d",
+      "title": "INTERFIND",
+      "type": "green"
+    },
+    "target": {
+      "_id": "5fa279cf6fa88924de0cc53a",
+      "title": "CAXT",
+      "type": "green"
+    },
+    "type": "brown"
+  }
+]
